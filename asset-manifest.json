@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/bytearray-to-pdf-converter/static/css/main.bd9e3251.chunk.css",
-    "main.js": "/bytearray-to-pdf-converter/static/js/main.d52514df.chunk.js",
-    "main.js.map": "/bytearray-to-pdf-converter/static/js/main.d52514df.chunk.js.map",
-    "runtime-main.js": "/bytearray-to-pdf-converter/static/js/runtime-main.b2950b3d.js",
-    "runtime-main.js.map": "/bytearray-to-pdf-converter/static/js/runtime-main.b2950b3d.js.map",
-    "static/js/2.83615dc7.chunk.js": "/bytearray-to-pdf-converter/static/js/2.83615dc7.chunk.js",
-    "static/js/2.83615dc7.chunk.js.map": "/bytearray-to-pdf-converter/static/js/2.83615dc7.chunk.js.map",
-    "index.html": "/bytearray-to-pdf-converter/index.html",
-    "precache-manifest.c4997691342547dae2d470919d93a45a.js": "/bytearray-to-pdf-converter/precache-manifest.c4997691342547dae2d470919d93a45a.js",
-    "service-worker.js": "/bytearray-to-pdf-converter/service-worker.js",
-    "static/css/main.bd9e3251.chunk.css.map": "/bytearray-to-pdf-converter/static/css/main.bd9e3251.chunk.css.map",
-    "static/js/2.83615dc7.chunk.js.LICENSE.txt": "/bytearray-to-pdf-converter/static/js/2.83615dc7.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/bytearray-to-pdf-converter/static/media/Nunito-Regular.d2e691bc.ttf"
+    "main.css": "/bytearraytopdf/static/css/main.e9d84f6c.chunk.css",
+    "main.js": "/bytearraytopdf/static/js/main.0aa819f9.chunk.js",
+    "main.js.map": "/bytearraytopdf/static/js/main.0aa819f9.chunk.js.map",
+    "runtime-main.js": "/bytearraytopdf/static/js/runtime-main.e21e8933.js",
+    "runtime-main.js.map": "/bytearraytopdf/static/js/runtime-main.e21e8933.js.map",
+    "static/js/2.83615dc7.chunk.js": "/bytearraytopdf/static/js/2.83615dc7.chunk.js",
+    "static/js/2.83615dc7.chunk.js.map": "/bytearraytopdf/static/js/2.83615dc7.chunk.js.map",
+    "index.html": "/bytearraytopdf/index.html",
+    "precache-manifest.7c2c90e9cd8877ec5843ea4c8a4fa34f.js": "/bytearraytopdf/precache-manifest.7c2c90e9cd8877ec5843ea4c8a4fa34f.js",
+    "service-worker.js": "/bytearraytopdf/service-worker.js",
+    "static/css/main.e9d84f6c.chunk.css.map": "/bytearraytopdf/static/css/main.e9d84f6c.chunk.css.map",
+    "static/js/2.83615dc7.chunk.js.LICENSE.txt": "/bytearraytopdf/static/js/2.83615dc7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/bytearraytopdf/static/media/Nunito-Regular.d2e691bc.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2950b3d.js",
+    "static/js/runtime-main.e21e8933.js",
     "static/js/2.83615dc7.chunk.js",
-    "static/css/main.bd9e3251.chunk.css",
-    "static/js/main.d52514df.chunk.js"
+    "static/css/main.e9d84f6c.chunk.css",
+    "static/js/main.0aa819f9.chunk.js"
   ]
 }
