@@ -35,4 +35,5 @@ button {
   border: none;
   border-radius: 3px;
   box-shadow: 2px 2px 10px grey;
+  cursor: pointer;
 }
